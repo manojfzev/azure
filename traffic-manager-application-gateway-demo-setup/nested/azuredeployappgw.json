@@ -9,7 +9,7 @@
         "Standard_Medium",
         "Standard_Large"
       ],
-      "defaultValue": "Standard_Medium",
+      "defaultValue": "Standard_V2",
       "metadata": {
         "description": "Application Gateway size/SKU"
       }
